@@ -1,0 +1,40 @@
+.judul{
+    margin-top: 30px;
+}
+.deskripsi{
+    padding: 10px;
+}
+.konten{
+    margin-top: 20px;
+}
+.footer{
+    padding: 20px;
+    color: white;
+}
+.hasil{
+    margin-top: 20px;
+}
+.hasil-cari{
+    background-color: grey;
+    margin-top: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 20px;
+}
+
+.preloader {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+    background-color: #fff;
+  }
+  .preloader .loading {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    font: 14px arial;
+  }
